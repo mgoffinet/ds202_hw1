@@ -1,0 +1,26 @@
+---
+title: "Partner"
+author: "Anyesha Ray"
+date: "January 27, 2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Name: McKenna Goffinet
+
+Github Username: mgoffinet
+
+Commit ID: 47be99b89a48ce8ea5a813da972852757c81faad
+
+Knit: yes no errors
+
+Tip: I had a lot of problem being in the correct repository and had to cd out and back in a lot
+
+
+
+
+```{r partner}
+```
